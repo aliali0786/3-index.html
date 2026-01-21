@@ -26,3 +26,4 @@ clearInterval(timer);
 
 ``}
 </script>
+<p>Project by Rashid</p>
