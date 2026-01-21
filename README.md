@@ -3,3 +3,4 @@
 <html>
 <head>
 <title>Stopwatch Project</title>
+</head>
