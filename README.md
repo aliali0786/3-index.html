@@ -13,3 +13,4 @@
 <script>
 let t = 0;
 let timer;
+function start(){
