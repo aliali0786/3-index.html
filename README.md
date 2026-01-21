@@ -11,3 +11,4 @@
 <button onclick="stop()">Stop</button>
 <button onclick="reset()">Reset</button>
 <script>
+let t = 0;
