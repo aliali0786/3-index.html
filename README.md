@@ -12,3 +12,4 @@
 <button onclick="reset()">Reset</button>
 <script>
 let t = 0;
+let timer;
