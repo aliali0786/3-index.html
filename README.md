@@ -10,3 +10,4 @@
 <button onclick="start()">Start</button>
 <button onclick="stop()">Stop</button>
 <button onclick="reset()">Reset</button>
+<script>
