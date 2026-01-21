@@ -9,3 +9,4 @@
 <p id="time">0</p>
 <button onclick="start()">Start</button>
 <button onclick="stop()">Stop</button>
+<button onclick="reset()">Reset</button>
