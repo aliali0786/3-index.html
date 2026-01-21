@@ -8,3 +8,4 @@
 <h1>Stopwatch Timer</h1>
 <p id="time">0</p>
 <button onclick="start()">Start</button>
+<button onclick="stop()">Stop</button>
