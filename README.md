@@ -19,3 +19,4 @@ timer = setInterval(run,1000);
 
 
 ``}
+function stop(){
